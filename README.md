@@ -1,3 +1,3 @@
-# iagodahlem-bot
+# bot
 
-Simple slack bot for handle some tasks for me.
+Simple bot for handle some tasks.
